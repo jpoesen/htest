@@ -1,0 +1,13 @@
+# Colours
+
+blue: #327ABD
+
+red: #d92644
+lightred-bg: #f2d9d9
+
+darkyellow: #a06308;
+lightyellow-bg: #fbf7cb
+
+
+darkgray: #364753
+lightgray-bg: #dfebf6
